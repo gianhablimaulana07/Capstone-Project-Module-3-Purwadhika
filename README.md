@@ -2,7 +2,9 @@
 
 ## Study Case: Saudi Arabia Used Cars
 Studi kasus ini merupakan Capstone Project Modul 3 Job Connector Data Scientist and Machine Learning dari Purwadhika Digital Technology School.
+
 Pemilik : Gian Habli Maulana
+
 Tanggal : 16 Juli 2024 - 04 Agustus 2024
 
 ## Business Problem
