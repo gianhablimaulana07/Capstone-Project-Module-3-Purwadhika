@@ -79,4 +79,5 @@ Beberapa Evaluation Metric yang digunakan dalam model ini diantaranya adalah seb
 - MAPE (Mean Absolute Percentage Error)
 - RMSE(Root Mean Squared Error)
 - R² (R-squared)
+
 Nilai Evaluation Metric diatas dari setiap model akan diperbandingkan dan akan dipilih nilai Evaluation Metric yang sesuai dengan karakteristik data sebagai pengambilan keputusan model terbaik.
